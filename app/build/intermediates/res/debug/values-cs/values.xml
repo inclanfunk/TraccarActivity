@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Android/TraccarActivity/app/src/main/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_provider_names">
+        <item>GPS</item>
+        <item>Mobilní síť</item>
+        <item>Obojí</item>
+    </string-array>
+    <!-- From: file:/D:/Android/TraccarActivity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-cs/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhledávací dotaz"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Sdílet pomocí %s"</string>
+    <!-- From: file:/D:/Android/TraccarActivity/app/src/main/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="about_description">GPS sledovací aplikace pracující v reálném čase pro zařízení s operačním systémem Android. Kompatibilní s Traccar serverem a dalšími sledovacími systémy.</string>
+    <string name="about_license">Tato aplikace je zdarma a open source, zdrojový kód je licencován pod Apache License Version 2.0 a je přístupný na GitHub.</string>
+    <string name="about_web">Pro více informací navštivte\nwww.traccar.org/client</string>
+    <string name="app_logo">Traccar</string>
+    <string name="app_name">Traccar klient</string>
+    <string name="menu_about">O aplikaci</string>
+    <string name="menu_clear">Vyčistit</string>
+    <string name="menu_status">Stav</string>
+    <string name="settings_address_summary">Doménové jméno nebo IP adresa</string>
+    <string name="settings_address_title">Adresa serveru</string>
+    <string name="settings_extended_summary">Použijte nový formát zprávy</string>
+    <string name="settings_extended_title">Rozšířené formát</string>
+    <string name="settings_id_title">Identifikátor zařízení</string>
+    <string name="settings_interval_summary">Interval zpráv v sekundách</string>
+    <string name="settings_interval_title">Frekvence</string>
+    <string name="settings_port_summary">TCP port sledovacího serveru</string>
+    <string name="settings_port_title">Port</string>
+    <string name="settings_provider_summary">Zdroj zaměřovacích dat</string>
+    <string name="settings_provider_title">Poskytovatel zaměření</string>
+    <string name="settings_status_off">Start</string>
+    <string name="settings_status_off_summary">Zastaveno</string>
+    <string name="settings_status_on">Stop</string>
+    <string name="settings_status_on_summary">Spuštěno</string>
+    <string name="settings_status_title">Stav služby</string>
+    <string name="status_connection_fail">Spojení selhalo</string>
+    <string name="status_connection_success">Spojení se zdařilo</string>
+    <string name="status_connectivity_change">Změna připojení</string>
+    <string name="status_location_update">Aktualizace pozice</string>
+    <string name="status_preference_update">Aktualizace nastavení</string>
+    <string name="status_send_fail">Odesílání selhalo</string>
+    <string name="status_service_create">Služba vytvořena</string>
+    <string name="status_service_destroy">Služba zastavena</string>
+    <string name="status_service_start">Služba spuštěna</string>
+</resources>

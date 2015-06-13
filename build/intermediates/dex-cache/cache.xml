@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Земляков\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.2.4\3b7f38df6de5dd8b500e602ae8c2dd5ee446f883\httpcore-4.2.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="D:\Android\TraccarActivity\app\build\intermediates\pre-dexed\debug\httpcore-4.2.4-c3d11bc7c4c9cb2082645020014f4aaf0cde31a3.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Android\TraccarActivity\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ff2d7f5022b5a92fc988e7ecf40140c2621ade2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Земляков\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.2.5\412b9914d0adec6d5716df1ada8acbc4f6f2dd37\httpmime-4.2.5.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="412b9914d0adec6d5716df1ada8acbc4f6f2dd37">
+        <dex dex="D:\Android\TraccarActivity\app\build\intermediates\pre-dexed\debug\httpmime-4.2.5-8725bb30c0a7a71fd9f7e6147ce49aa9abfc33d0.jar" />
+    </item>
+    <item
+        jar="D:\Android\TraccarActivity\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Android\TraccarActivity\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-182de713ee0e4472c63168a88f22ace6bc5d7f34.jar" />
+    </item>
+    <item
+        jar="D:\Android\TraccarActivity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Android\TraccarActivity\app\build\intermediates\pre-dexed\debug\classes-593fa6ac88b35886316cf0eaaf878149508a551a.jar" />
+    </item>
+    <item
+        jar="D:\Android\TraccarActivity\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Android\TraccarActivity\app\build\intermediates\pre-dexed\debug\classes-55b2a4b260b9192a6092dd67cb65be9de872a96a.jar" />
+    </item>
+
+</items>
